@@ -42,7 +42,7 @@ This project provides a step-by-step guide for migrating a database from an EC2 
     - Remove backup files from EC2 and local machines.
     - Revoke unnecessary permissions.
 
-## info.txt
+## info
 
 ```
 Migration Date: [Insert Date]
@@ -51,7 +51,6 @@ Target: RDS Instance ([RDS Endpoint])
 Database Type: [MySQL/PostgreSQL/Other]
 Backup File: backup.sql
 Migration Tool: [mysqldump/pg_dump/Other]
-Contact: [Your Name/Email]
 ```
 
 ## Troubleshooting
